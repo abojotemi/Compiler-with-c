@@ -1,0 +1,15 @@
+# Function to add 2 numbers
+fn my_func(int x, int y) -> int
+{
+    return x * y
+}
+
+
+# Anonymous function to add 2 numbers
+int mul = anon (int x, int y) -> int: x * y
+
+print("This is a function")
+for i in range(10)
+{
+    print(i)
+}
